@@ -4,3 +4,5 @@ file
 fitur 
 foto
 uhuy
+
+edit pertama pake stash.
